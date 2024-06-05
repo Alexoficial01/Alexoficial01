@@ -2,7 +2,7 @@
 
 Boas vindas ao meu perfil 💙💙
 
-Meu nome é Alex William Gomes da silva
+**Meu nome é Alex William Gomes da silva**
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
@@ -10,7 +10,7 @@ Utilizo esse espaço para minha organização e compartilhamento dos meu projeto
 
 Você pode entrar em contato comigo 📫
 
-00001081377847sp@al.educacao.sp.gov.br
+**00001081377847sp@al.educacao.sp.gov.br**
 
 <!--
 **Alexoficial01/Alexoficial01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
