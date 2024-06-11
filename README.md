@@ -7,6 +7,9 @@
 * Estou estudando na Alura
 * Estou me desenvolvendo na linguagem JavaScript
 * Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+* Estudo na escola: Elvira Santos de Oliveira
+* Estou cursando o segundo ano
+* Faço curso técnico de TI no Senac de itapira
 
 Você pode entrar em contato comigo 📫
 
